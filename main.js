@@ -2,9 +2,19 @@
  * Your code here!
  ******************************************************************************/
 // function fizzBuzz(getInput){
-//   if num
-// } i didnt need a function?? im a bit confused
-
+//   if (getInput % 3){
+//     return "Fizz"
+//   }
+//   else if (getInput % 5){
+//     return "Buzz"
+//   }
+//   else if (getInput % 3 && getInput % 5){
+//     return "FizzBuzz"
+//   }
+//   else{
+//     return getInput
+//   }
+// } fizzBuzz() no function needed?
 
 let outCome= getInput(0)
 
