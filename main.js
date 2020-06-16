@@ -1,7 +1,25 @@
 /*******************************************************************************
  * Your code here!
  ******************************************************************************/
+// function fizzBuzz(getInput){
+//   if num
+// } i didnt need a function?? im a bit confused
 
+
+let outCome= getInput(0)
+
+if (outCome % 3){
+  return "Fizz"
+}
+else if (outCome % 5){
+  return "Buzz"
+}
+else if (outCome % 3 && outCome % 5){
+  return "FizzBuzz"
+}
+else{
+  return outCome
+}
 
 
 
